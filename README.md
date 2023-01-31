@@ -1,4 +1,4 @@
-# AJBI-based--_color_blending
+# AJBI-color_blending
 code for paper "An Adaptive Joint Bilateral Interpolation-Based Color Blending Method for Stitched UAV Images"
 
 ## usage
